@@ -1,0 +1,78 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    display: block;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    padding: 0%;
+    background-color: aliceblue;
+    color: blue;
+
+}
+header h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+h4{
+    color: blueviolet;
+    font-style: inherit;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.up{
+    position: relative;
+    left: 234px;
+    margin: 41px 0 27px 0;
+}
+.down{
+    position:relative;
+    right: 234px;
+    margin: 41px 0 27px 0;
+}
+nav{
+    display: block;
+    background-color:beige;
+    block-size: 30px;
+    
+}
+nav a{
+    padding: 20px;
+}
+.mypic{
+    display: block;
+    width: 200px;
+    border-radius: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+main{
+    background-color: aquamarine;
+}
+th{
+    padding: 20px;
+    color: blueviolet;
+}
+iframe{
+    padding: 20px;
+}
+.notes{
+    padding: 20px;
+}
+.payment{
+    padding: 20px;
+}
+.btn {
+    background-color: blue;
+}
+.btn:hover{
+    background-color: red;
+}
+footer{
+    display: block;
+    block-size: 30px;
+    background-color: black;
+}
+footer a{
+    padding: 20px;
+}
